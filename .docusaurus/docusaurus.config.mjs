@@ -4,9 +4,9 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
+  "title": "RM在线文档",
   "tagline": "Dinosaurs are cool",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/favicon.svg",
   "future": {
     "v4": {
       "removeLegacyPostBuildHeadAttribute": true,
@@ -77,10 +77,10 @@ export default {
       "disableSwitch": false
     },
     "navbar": {
-      "title": "My Site",
+      "title": "RM在线文档",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "img/logo.png"
       },
       "items": [
         {
