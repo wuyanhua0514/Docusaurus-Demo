@@ -28,6 +28,9 @@ export default {
     },
     "experimental_router": "browser"
   },
+  "themes": [
+    "@cmfcmf/docusaurus-search-local"
+  ],
   "url": "https://your-docusaurus-site.example.com",
   "baseUrl": "/",
   "organizationName": "facebook",
@@ -145,7 +148,7 @@ export default {
           ]
         }
       ],
-      "copyright": "Copyright © 2025 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2026 My Project, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {
@@ -377,7 +380,6 @@ export default {
   ],
   "customFields": {},
   "plugins": [],
-  "themes": [],
   "scripts": [],
   "headTags": [],
   "stylesheets": [],
